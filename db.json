@@ -35,7 +35,6 @@
         "Pour the water around the roast.",
         "Cook on low for 7-9 hours."
       ],
-      "timers": [0, 0, 0, 420],
       "imageURL": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg",
       "originalURL": "http://www.food.com/recipe/to-die-for-crock-pot-roast-27208"
     },
@@ -70,7 +69,6 @@
         "The tips of the spears will get very brown but watch them to prevent burning.",
         "They are great plain, but sometimes I serve them with a light vinaigrette if we need something acidic to balance out our meal."
       ],
-      "timers": [0, 0, 0, 0, 0, 0, 10, 0, 0, 0],
       "imageURL": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/50/84/7/picMcSyVd.jpg",
       "originalURL": "http://www.food.com/recipe/roasted-asparagus-50847"
     },
@@ -104,7 +102,6 @@
         }
       ],
       "steps": ["Bring broth to a low boil.", "Add curry powder and salt.", "Cook lentils for 20 minutes.", "Add rice and simmer for 20 minutes.", "Enjoy!"],
-      "timers": [0, 0, 20, 20, 0],
       "imageURL": "http://dagzhsfg97k4.cloudfront.net/wp-content/uploads/2012/05/lentils3.jpg"
     },
     {
@@ -160,7 +157,6 @@
         "Bake at 400 deg Fahrenheit for 15 minutes.",
         "Enjoy!"
       ],
-      "timers": [15, 60, 0, 0, 0, 15, 0],
       "imageURL": "http://upload.wikimedia.org/wikipedia/commons/c/c7/Spinach_pizza.jpg"
     }
   ]
